@@ -22,39 +22,6 @@ Proyectos:
 
 [Twitter, redes sociales](https://github.com/JorgeEduardoGomezForero/Portafolio-NLP/blob/main/09_Redes_Twitter.ipynb) Extracción y análisis de información de Twitter.
 
-[
+[Análisis de Sentimientos](https://github.com/JorgeEduardoGomezForero/Portafolio-NLP/blob/main/10_An%C3%A1lisis_Sentimientos.ipynb) Análisis de sentimientos con modelos basados en reglas.
 
-
-You can use the [editor on GitHub](https://github.com/JorgeEduardoGomezForero/Portafolio-NLP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.Portafolio
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Jupyter notebook
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-#  Adquisición de texto : (https://github.com/JorgeEduardoGomezForero/Portafolio-NLP/blob/main/01_Adquisici%C3%B3n_de_textos.ipynb)
-## Header### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JorgeEduardoGomezForero/Portafolio-NLP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Te invito a que sepas algo más de mi [Perfil](https://www.linkedin.com/in/jorge-eduardo-gomez-forero-06a85b6a/)
