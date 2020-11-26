@@ -25,3 +25,4 @@ Proyectos:
 [Análisis de Sentimientos](https://github.com/JorgeEduardoGomezForero/Portafolio-NLP/blob/main/10_An%C3%A1lisis_Sentimientos.ipynb) Análisis de sentimientos con modelos basados en reglas.
 
 Te invito a que sepas algo más de mi [Jorge Eduardo Gomez Forero](https://www.linkedin.com/in/jorge-eduardo-gomez-forero )
+
