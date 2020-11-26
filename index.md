@@ -1,10 +1,10 @@
 ##  Portafolio NLP Jorge Eduardo Gomez Forero
 
-Este portafolio contiene ejercicios prácticos de algunas de las aplicaciones del procesamiento de lenguaje natural, en el tendrás a disposición la implementación y aplicación de métodos de aprendizaje automático:
+Este repositorio contiene ejercicios prácticos de algunas de las aplicaciones de procesamiento de leguaje natural, en el tendras a disposición la implementación y aplicación de algunos métodos de aprendizaje:
 
 Proyectos:
 
-[Adquisición de Textos]( https://github.com/JorgeEduardoGomezForero/Portafolio-NLP/blob/main/01_Adquisici%C3%B3n_de_textos.ipynb)
+[Adquisición de Textos]( https://github.com/JorgeEduardoGomezForero/Portafolio-NLP/blob/main/01_Adquisici%C3%B3n_de_textos.ipynb) Adquisición de texto a través de la librería  os y web scraping haciendo uso de las librerías  Request y BeatifulSoup
 
 
 You can use the [editor on GitHub](https://github.com/JorgeEduardoGomezForero/Portafolio-NLP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.Portafolio
