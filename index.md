@@ -10,9 +10,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-#  Adquisición de texto :https://github.com/JorgeEduardoGomezForero/Portafolio-NLP/blob/main/01%20Adquisici%C3%B3n%20de%20textos.ipynb
-## Header
-### Header 3
+#  Adquisición de texto : (https://github.com/JorgeEduardoGomezForero/Portafolio-NLP/blob/main/01_Adquisici%C3%B3n_de_textos.ipynb)
+## Header### Header 3
 
 - Bulleted
 - List
