@@ -2,6 +2,10 @@
 
 Este portafolio contiene ejercicios prácticos de algunas de las aplicaciones del procesamiento de lenguaje natural, en el tendrás a disposición la implementación y aplicación de métodos de aprendizaje automático:
 
+Proyectos:
+
+[Adquisición de Textos]( https://github.com/JorgeEduardoGomezForero/Portafolio-NLP/blob/main/01_Adquisici%C3%B3n_de_textos.ipynb)
+
 
 You can use the [editor on GitHub](https://github.com/JorgeEduardoGomezForero/Portafolio-NLP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.Portafolio
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
