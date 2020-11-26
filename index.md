@@ -16,7 +16,13 @@ Proyectos:
 
 [Modelos de Clasificación y Agrupación](https://github.com/JorgeEduardoGomezForero/Portafolio-NLP/blob/main/06_Modelos_Clasificaci%C3%B3n_Agrupaci%C3%B3n.ipynb) Elaborar Modelo de clasificación (Supervisado) y Modelo de Agrupación (No Supervisado).
 
+[Modelado de  Temas LDA](https://github.com/JorgeEduardoGomezForero/Portafolio-NLP/blob/main/07_Modelado_Temas_LDA.ipynb) Modelado utilizando la asignación latente de Dirichlet.
 
+[Nube de Palabras](https://github.com/JorgeEduardoGomezForero/Portafolio-NLP/blob/main/08_Nube_Palabras.ipynb) Visualización de nube de palabras.
+
+[Twitter, redes sociales](https://github.com/JorgeEduardoGomezForero/Portafolio-NLP/blob/main/09_Redes_Twitter.ipynb) Extracción y análisis de información de Twitter.
+
+[
 
 
 You can use the [editor on GitHub](https://github.com/JorgeEduardoGomezForero/Portafolio-NLP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.Portafolio
